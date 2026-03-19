@@ -1,0 +1,19 @@
+ul{
+list-style-type: none ; 
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #100294;
+}
+ul li a{
+display: block;
+color: rgb(249, 253, 255);
+text-align: center;
+padding: 14px 16px;
+
+
+}
+.Juanheader{
+
+background-color: #100294;
+}
