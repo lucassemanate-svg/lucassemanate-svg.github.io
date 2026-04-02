@@ -4,6 +4,8 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: #100294;
+display:flex;
+justify-content:center;
 }
 ul li a{
 display: block;
