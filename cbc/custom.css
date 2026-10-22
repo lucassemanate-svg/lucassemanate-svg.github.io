@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #fff9ea url("images-bg/bg-yellow.jpg") repeat;
+  color: #31251d;
+  font-family: "alize", sans-serif;
+}
+
+h1, h2, h3, h4, strong, figcaption {
+  font-family: "iskra", sans-serif;
+  font-weight: 700;
+  color: #6b4b22;
+}
+
+.bg-light {
+  background-color: #f88d3d !important;
+}
+
+.nav-link {
+  color: #fff9ea !important;
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: #3f2f25 !important;
+}
+
+.navbar-nav .show > .nav-link,
+.navbar-nav .active > .nav-link,
+.nav-link.show,
+.nav-link.active {
+  color: #3f2f25 !important;
+}
+
+.menu-table caption {
+  color: #6b4b22;
+  font-weight: 700;
+  caption-side: top;
+}
+
+.table > thead {
+  --bs-table-bg: #bdc866;
+  --bs-table-color: #31251d;
+}
+
+footer {
+  margin-top: auto;
+  min-height: 60px;
+  line-height: 60px;
+  background-color: #6b4b22;
+  color: #fff9ea;
+}
+
+footer ul {
+  margin-bottom: 0;
+}
+
+footer a {
+  color: #f1c461;
+}
+
+footer a:hover {
+  color: #bdc866;
+}
