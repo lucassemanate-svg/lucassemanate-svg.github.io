@@ -1,11 +1,4 @@
-ul{
-list-style-type: none ; 
-margin: 0;
-padding: 0;
-overflow: hidden;
-display:flex;
-justify-content:center;
-}
+
 ul li a{
 display: block;
 color: rgb(249, 253, 255);
