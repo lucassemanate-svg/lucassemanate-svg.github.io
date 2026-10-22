@@ -12,23 +12,23 @@ h1, h2, h3, h4, strong, figcaption {
 }
 
 .bg-light {
-  background-color: #f88d3d !important;
+  background-color: #f88d3d;
 }
 
 .nav-link {
-  color: #fff9ea !important;
+  color: #fff9ea;
   font-weight: 700;
 }
 
 .nav-link:hover {
-  color: #3f2f25 !important;
+  color: #3f2f25;
 }
 
 .navbar-nav .show > .nav-link,
 .navbar-nav .active > .nav-link,
 .nav-link.show,
 .nav-link.active {
-  color: #3f2f25 !important;
+  color: #3f2f25;
 }
 
 .menu-table caption {
