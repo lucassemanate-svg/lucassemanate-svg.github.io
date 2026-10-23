@@ -1,0 +1,62 @@
+@charset "UTF-8";
+body {
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+blockquote, blockquote p {
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.colorbox1 {
+	background-color: #535925;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+.colorbox2 {
+	background-color: #E6C967;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+.colorbox3 {
+	background-color: #65804A;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+.colorbox4 {
+	background-color: #293240;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+.colorbox5 {
+	background-color: #669EBF;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 0 15px 15px 0;
+	padding: 5px;
+}
+.border {
+	border: 1px #ddddd2 solid;
+	margin: 15px;
+	padding: 10px;
+	overflow: hidden;
+}
+.label {
+	font: normal 13px/18px Verdana, sans-serif;
+	color: #c00;
+	margin: 15px;
+	padding: 10px;
+}
