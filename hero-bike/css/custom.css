@@ -1,14 +1,16 @@
-@charset "UTF-8";
+
 .main-nav {
     display: flex;
     gap: 20px;
     padding: 0;
     list-style-type: none;
 }
+
 body {
 	font-family: "Bebas Neue", sans-serif;
 	font-weight: 400;
 }
+
 strong {
 	font-family: "Bebas Neue", sans-serif;
 	font-weight: 900;
@@ -23,7 +25,7 @@ h2 {
 	font-family: "Bebas Neue", sans-serif;
 	font-weight: 300;
 	text-transform: uppercase;
-	color: #6B90BF;
+	color: #497b9c;
 	margin-top: 20px;
 }
 .blockquote p {
@@ -37,27 +39,18 @@ h2 {
 	font-weight: 300;
 	color: #fff;
 }
-.blockquote {
-	background-color: #6B90BF;
-	padding: 10px 20px;
-}
+
 a {
-	color: #6B90BF;
+	color: #1c477f;
 	font-weight: 900;
 }
 a:hover {
-	color: #6B90BF;
+	color: #04244d;
 	font-weight: 900;
 }
-.content {
-	background-color: #6B90BF;
-}
-.footer {
-	background-color: #15366b;
-	padding: 10px;
-}
+
 .footer p {
-	color: #fff;
+	color: #8C1D04;
 }
 
 /* svg logo */
